@@ -9,3 +9,6 @@ Curated list all about Lean Topics
  - [http://www.singingdogllc.com](http://www.singingdogllc.com)
  - [http://www.movestheneedle.com](http://www.movestheneedle.com)
 
+##Videos and Podcasts
+ - [Maker Stories: Episode 10 w/ Eric Ries](https://overcast.fm/+BowsiYJIA)
+
