@@ -5,6 +5,6 @@ Curated list all about Lean Topics
 [Silicon Valley Moves the Needle on Curing Aging](http://www.singingdogllc.com/980/lean-startup-breakthrough-innovation-in-large-enterprises/)
 
 ##Websites
-[http://www.singingdogllc.com](http://www.singingdogllc.com)
-[http://www.movestheneedle.com](http://www.movestheneedle.com)
+ - [http://www.singingdogllc.com](http://www.singingdogllc.com)
+ - [http://www.movestheneedle.com](http://www.movestheneedle.com)
 
